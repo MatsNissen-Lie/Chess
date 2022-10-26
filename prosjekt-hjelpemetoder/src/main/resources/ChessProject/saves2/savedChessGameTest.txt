@@ -1,0 +1,12 @@
+r**qr***
+***b*pkp
+p****np*
+*pp***B*
+P*******
+*PNP**Q*
+*P****PP
+R***RK**
+true
+true
+false
+false
